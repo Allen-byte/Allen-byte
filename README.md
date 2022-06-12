@@ -1,6 +1,6 @@
 - 👋 Hi, I’m OliverLo
-- 👀 I’m interested in Code and Programe
-- 🌱 I’m currently preparing postgraduate entrance examination
+- 👀 I love exploring the world through programming
+- 🌱 Every step counts 
 
 <!---
 Allen-byte/Allen-byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
